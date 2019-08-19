@@ -28,6 +28,8 @@ public class Main {
 	         {
 	             System.out.println(sc.next()+" can't be fitted anywhere.");
 	         }
+	    	 
+	    	 sc.close();
 
 	     }
 	}
